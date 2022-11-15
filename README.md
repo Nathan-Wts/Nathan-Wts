@@ -2,9 +2,11 @@
 
 ### :man_technologist: About Me :
 I dream about network and cybersecurity.
-- 🔗 See more about me on my social network\
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-wittersheim/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nathan-wittersheim/)
+- 💻 
+- 🔗 See more about me on my social network
+
+	[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-wittersheim/)
+	[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nathan-wittersheim/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
